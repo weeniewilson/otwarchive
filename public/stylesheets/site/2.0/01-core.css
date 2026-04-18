@@ -19,12 +19,8 @@ a, a:link {
   text-decoration: none;
 }
 
-#header, #main, #dashboard {
-  margin: 1em 1em;
-}
-
-#footer {
-margin: 1em 3em;
+#header, #footer, #main, #dashboard {
+  padding: 1em 1em;
 }
 
 .landmark {
