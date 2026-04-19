@@ -144,3 +144,11 @@ services:
       - es
       - mc
       - chrome
+
+version: '3'
+services:
+  example:
+    image: ubuntu
+    volumes:
+      - ./source_dir:/app/target_dir
+    command: touch /app/target_dir/hello

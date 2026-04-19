@@ -28,7 +28,7 @@ notice that CSS3 declarations sit are indented twice (four spaces) and always co
   font-size: 0.875em;
   background: #5a92df;
   border: 1px solid black;
-  border-radius: 7px;
+  border-radius: 0px;
 }
 
 #header li {
