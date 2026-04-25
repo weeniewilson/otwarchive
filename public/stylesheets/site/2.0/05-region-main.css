@@ -9,6 +9,7 @@ https://otwcode.github.io/docs/patterns/regions.html#main-region
   padding: 0.5em 2.5em 3.5em;
   position: relative;
   min-height: 450px;
+  background-color: #edf2f8;
 }
 
 #main:after {
